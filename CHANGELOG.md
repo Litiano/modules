@@ -6,6 +6,23 @@ and this package adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.2.0] - 2019-08-06
+### Added
+- Laravel 6.x support
+
+## [5.1.1] - 2019-07-10
+### Changed
+- Explicitly require authentication on API routes by default
+
+## [5.1.0] - 2019-02-26
+### Added
+- Laravel 5.8 support
+- `make:module:job` command
+
+## [5.0.2] - 2019-02-11
+### Fixed
+- Fix undefined variable factory when loading factories
+
 ## [5.0.1] - 2018-12-09
 ### Fixed
 - Cached config is now properly returned
